@@ -1,0 +1,9 @@
+.canvas{
+    height: 500px;
+    background-color: whitesmoke;
+    position: relative;
+}
+.figure{
+    position:absolute;
+    background-color: red;
+}
